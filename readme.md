@@ -16,7 +16,7 @@
 
 <img align="left" alt="Tailwind CSS" src="./assets/icons8-tailwind-css-28.png"> `Tailwind CSS`
 
- # Deploy Link -> [Shopify Clone](https://paytmindia.netlify.app/)
+ # Deploy Link -> [Shopify Clone](https://shopify-clone-in.netlify.app/)
 
 # Key Features
 - Clean User Interface.
