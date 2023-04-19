@@ -46,7 +46,7 @@
 
 <img align="left" alt="Github" src="./assets/icons8-linkedin-28.png"> &nbsp; [Linkdin](https://www.linkedin.com/in/piyush-bhattit06/)
 
-<img align="left" alt="Github" width="28px" src="./assets/findcoder.svg"> &nbsp; [Fincoder](https://www.findcoder.io/u/piyushbhatt)
+<img align="left" alt="Github" width="28px" src="./assets/findcoder.svg"> &nbsp; [Findcoder](https://www.findcoder.io/u/piyushbhatt)
 
 <img align="left" alt="Github"  src="./assets/icons8-instagram-28.png"> &nbsp; [Instagram](https://www.instagram.com/piyush_11_11/)
 
